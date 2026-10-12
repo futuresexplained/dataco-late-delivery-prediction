@@ -1,0 +1,13 @@
+# Keep source material OUT of this public repo (available upon request)
+*.ipynb
+*.pptx
+*.potx
+*.pkl
+*.joblib
+*.pbix
+*.csv
+*.xlsx
+*.pdf
+*.zip
+data/
+.ipynb_checkpoints/
