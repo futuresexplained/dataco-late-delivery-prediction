@@ -3,6 +3,7 @@
 **Machine-learning capstone: flagging at-risk orders at the moment they are placed.**
 
 By **Peh Chin Boon** · Singapore · Completed 9 Oct 2026 · [LinkedIn](https://www.linkedin.com/in/chin-boon-peh/)
+
 Python · pandas · scikit-learn · XGBoost · SHAP · Power BI
 
 > 🔒 **Source files (Jupyter notebook, slide deck, trained model) are available upon request.**
